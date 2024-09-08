@@ -1,0 +1,7 @@
+Flask
+scikit-learn
+numpy
+pandas
+matplotlib
+
+#pip install -r requirements.txt
